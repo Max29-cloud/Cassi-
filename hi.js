@@ -1,6 +1,6 @@
 export const meta = {
   name: "hi",
-  author: "Liane Cagara",
+  author: "Donrel Inta",
   otherNames: ["hello", "hey"],
   version: "1.0.0",
   description: "Testing?",
