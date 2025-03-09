@@ -2,7 +2,7 @@ import { ReduxCMDHome } from "../modules/reduxCMDHome.js";
 
 export const meta = {
   name: "admin",
-  author: "Liane Cagara 🎀",
+  author: "Donrel Inta🤗",
   noPrefix: false,
   version: "1.0.4",
   description: "Manage admins.",
